@@ -1,2 +1,2 @@
-# Exploratary-Data-Analysis--Ecommerece-website
+# Exploratary-Data-Analysis--Online E-Commerce -website
 Olist Store - Brazilian e-commerce
